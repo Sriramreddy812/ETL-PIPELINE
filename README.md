@@ -47,3 +47,17 @@ Automated ETL workflows
 Data preprocessing and transformation
 Machine Learning model training & evaluation
 Organized folder hierarchy for scalable pipelines
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1522" height="887" alt="image" src="https://github.com/user-attachments/assets/8e40d306-bab5-4852-a04d-eea7af167bc1" />
+
