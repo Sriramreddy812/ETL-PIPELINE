@@ -1,13 +1,13 @@
 # 🚀 Projects Overview
 
-# 1. NASA APOD ETL Pipeline
+## 1. NASA APOD ETL Pipeline
 Extracted real-time APOD metadata using NASA’s Astronomy Picture of the Day API.
 Automatically downloaded and stored daily astronomy images.
 Transformed raw JSON responses into clean, structured datasets for analysis.
 Loaded processed data into a database with a well-organized ETL folder hierarchy:
 raw → images → staged
 
-# 2. Weather API ETL Pipeline
+## 2. Weather API ETL Pipeline
 Extracted real-time weather data from a Weather API.
 Collected live atmospheric conditions including:
 Temperature
@@ -19,7 +19,7 @@ Loaded processed data into a database using a structured ETL workflow:
 raw → processed → staged
 
 
-# 3. Machine Learning Classification Pipeline (Iris & Titanic Datasets)
+## 3. Machine Learning Classification Pipeline (Iris & Titanic Datasets)
 Extracted and preprocessed structured datasets.
 
 Performed:
@@ -33,7 +33,7 @@ Titanic Survival Prediction
 Applied performance evaluation metrics to analyze model accuracy and effectiveness.
 
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 Python
 Pandas
 NumPy
@@ -41,7 +41,7 @@ Scikit-learn
 
 
 
-# 📊 Key Features
+## 📊 Key Features
 Real-time API data extraction
 Automated ETL workflows
 Data preprocessing and transformation
